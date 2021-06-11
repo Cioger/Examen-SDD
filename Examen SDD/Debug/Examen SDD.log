@@ -1,0 +1,4 @@
+﻿  1047_Balan_Theodor.cpp
+C:\Users\Theo\Desktop\Examen SDD\1047_Balan_Theodor.cpp(66,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Theo\Desktop\Examen SDD\1047_Balan_Theodor.cpp(92,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Examen SDD.vcxproj -> C:\Users\Theo\Desktop\Examen SDD\Debug\Examen SDD.exe
